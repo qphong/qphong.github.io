@@ -1,0 +1,73 @@
+baseURL = 'https://qphong.github.io'
+title = "Quoc Phong Nguyen"
+languageCode = 'en-us'
+paginate = 8
+
+relativeURLs = true
+enableEmoji = true
+ignoreFiles = ["_cache$"]
+uglyURLs = false
+theme = "m10c"
+
+[permalinks]
+    posts = "/:filename"
+#    post = "/:year/:month/:day/:slug/"
+# # The :slug variable falls back to :title if a field named slug is not set in the YAML metadata of the post. You can set a fixed slug so that the link to the post is always fixed and you will have the freedom to update the title of your post.
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "education"
+    name = "Education"
+    url = "/education/"
+    weight = 2
+
+[params]
+  author = 'Nguyen Quoc Phong'
+  description = 'Machine Learning Researcher'
+  menu_item_separator = " ~ "
+  avatar = "profile.jpg"
+  # favicon: # Absolute path of your favicon.ico file (default: “/favicon.ico”)
+
+[[params.social]]
+  icon = "github"
+  name = "My Github"
+  url = "https://github.com/qphong"
+
+
+# Gruvbox Material
+[params.style]
+   darkestColor = "#282828"
+   darkColor = "#282828"
+   lightColor = "#d4be98"
+   lightestColor = "#ebdbb2"
+   primaryColor = "#89b482"
+
+#   # Default theme
+#   [params.style]
+#     darkestColor = "#242930"
+#     darkColor = "#353b43"
+#     lightColor = "#afbac4"
+#     lightestColor = "#ffffff"
+#     primaryColor = "#57cc8a"
+#
+#     # Green theme
+#     [params.style]
+#       darkestColor = "#315659"
+#       darkColor = "#253031"
+#       lightColor = "#96a879"
+#       lightestColor = "#fff"
+#       primaryColor = "#dad865"
+
+#    # Red theme
+#    [params.style]
+#      darkestColor = "#d35050"
+#      darkColor = "#212121"
+#      lightColor = "#d6d6d6"
+#      lightestColor = "#d3d3d3"
+#      primaryColor = "#ffffff"
