@@ -27,6 +27,12 @@ theme = "m10c"
     url = "/education/"
     weight = 2
 
+  [[menu.main]]
+    identifier = "experience"
+    name = "Experience"
+    url = "/experience/"
+    weight = 3
+
 [params]
   author = 'Nguyen Quoc Phong'
   description = 'Machine Learning Researcher'

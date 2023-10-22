@@ -18,5 +18,16 @@ SMA3 (Singapore-MIT Alliance) Fellowship. Supervised by Associate Professor Brya
 Lee Kuan Yew Gold Medal for the best graduate throughout the course of study. </description>
     </item>
     
+    <item>
+      <title>Experience</title>
+      <link>https://qphong.github.io/experience/</link>
+      <pubDate>Sat, 21 Oct 2023 16:09:43 -0400</pubDate>
+      
+      <guid>https://qphong.github.io/experience/</guid>
+      <description>Working Experience Postdoctoral Associate [Apr. 2023 - Present] Laboratory for Information &amp;amp; Decision Systems, Massachusetts Institute of Technology
+Developing methods to facilitate the collaboration and to ensure fairness between multiple parties in solving machine learning problems, especially optimizing black box functions. Senior Postdoctoral Fellow [Jul. 2021 - Apr. 2023] Institute of Data Science (IDS), National University of Singapore (NUS)
+Developed new approaches to resolve problems in the theme of Trustable Model-Centric Sharing for Collaborative Machine Learning (ML) such as machine unlearning and collaborative ML techniques.</description>
+    </item>
+    
   </channel>
 </rss>
