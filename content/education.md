@@ -1,7 +1,7 @@
 +++
 title = 'Education'
 date = 2023-10-21T16:09:43-04:00
-draft = true
+draft = false
 +++
 
 ### Doctor of Philosophy, Computer Science (2013 - 2018)
