@@ -36,8 +36,13 @@ theme = "m10c"
 
 [[params.social]]
   icon = "github"
-  name = "My Github"
+  name = "Github"
   url = "https://github.com/qphong"
+
+[[params.social]]
+  icon = "linkedin"
+  name = "Linkedin"
+  url = "https://www.linkedin.com/in/qphong"
 
 
 # Gruvbox Material
