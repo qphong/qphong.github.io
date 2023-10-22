@@ -55,7 +55,7 @@ Currently, I am focusing on devising a general approach that unifies several pro
 
 5. Exploring Reward Functions with BO.
 
-    * [**NeurIPS'20**] [Efficient Exploration of Reward Functions in Inverse Reinforcement Learning via Bayesian Optimization.](https://papers.nips.cc/paper/2020/hash/2bba9f4124283edd644799e0cecd45ca-Abstract.html) Sreejith Balakrishnan*, **Quoc Phong Nguyen**, Bryan Kian Hsiang Low & Harold Soh. In Advances in Neural Information Processing Systems 33: 34th Annual Conference on Neural Information Processing Systems (NeurIPS'20), Dec 6-12, 2020.
+    * [**NeurIPS'20**] [Efficient Exploration of Reward Functions in Inverse Reinforcement Learning via Bayesian Optimization.](https://papers.nips.cc/paper/2020/hash/2bba9f4124283edd644799e0cecd45ca-Abstract.html) Sreejith Balakrishnan*, *Quoc Phong Nguyen*, Bryan Kian Hsiang Low & Harold Soh. In Advances in Neural Information Processing Systems 33: 34th Annual Conference on Neural Information Processing Systems (NeurIPS'20), Dec 6-12, 2020.
 
 ### [Active Learning]
 
