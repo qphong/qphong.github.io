@@ -5,6 +5,7 @@ draft = false
 +++
 
 # Welcome!
+
 I am a postdoctoral researcher at Massachusetts Institute of Technology (MIT), where I am supervised by [Professor Patrick Jaillet](https://web.mit.edu/jaillet/www/). My research focuses on
 * Bayesian optimization,
 * Active learning,
@@ -19,6 +20,7 @@ Currently, I am focusing on devising a general approach that unifies several pro
 
 # Recently
 * *I am looking for jobs in USA and Australia.*
+* I am thrilled to share the exciting news that our [meta Bayesian optimization](https://openreview.net/forum?id=ElykcDu5YK) and [constrained Bayesian optimization](https://openreview.net/forum?id=D4NJFfrqoq) have been accepted for poster presentation at ICLR 2024.
 * [Oct 17, 2023 @Phoenix, Arizona] I presented *Optimizing Value-at-risk And Conditional Value-at-risk Of Black-box Functions* at Bayesian Optimization session at **2023 INFORMS Annual Meeting**.
 
 ---
