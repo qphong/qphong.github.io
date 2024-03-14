@@ -6,7 +6,10 @@ draft = false
 
 ### Working Experience
 
-#### Postdoctoral Associate [Apr. 2023 - Present]
+#### Research Fellow [Mar. 2024 - Present]
+*Applied Artificial Intelligence Institute (A2I2), Deakin University*
+
+#### Postdoctoral Associate [Apr. 2023 - Feb. 2024]
 *Laboratory for Information & Decision Systems, Massachusetts Institute of Technology*
 
 * Developing methods to facilitate the collaboration and to ensure fairness between multiple parties in solving machine learning problems, especially optimizing black box functions.
