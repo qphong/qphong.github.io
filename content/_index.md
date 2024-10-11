@@ -6,7 +6,7 @@ draft = false
 
 # Welcome!
 
-I am a Research Fellow at Deakin University, Melbourne, VIC, Australia. I earned my PhD in Machine Learning at the prestigious National University of Singapore (NUS), under the great guidance and mentorship of [Professor Bryan Kian Hsiang Low](https://www.comp.nus.edu.sg/~lowkh/research.html) and [Professor Patrick Jaillet](https://web.mit.edu/jaillet/www/). My research focuses on
+I am a Research Fellow at Deakin University, Melbourne, VIC, Australia working with [Professor Sunil Gupta](https://experts.deakin.edu.au/2643-Sunil-Gupta) and [Professor Svetha Venkatesh](https://svethav.github.io). I earned my PhD in Machine Learning at the prestigious National University of Singapore (NUS), under the great guidance and mentorship of [Professor Bryan Kian Hsiang Low](https://www.comp.nus.edu.sg/~lowkh/research.html) and [Professor Patrick Jaillet](https://web.mit.edu/jaillet/www/). My research focuses on
 * Bayesian optimization,
 * Active learning,
 
@@ -19,6 +19,7 @@ Currently, I am focusing on devising a general approach that unifies several pro
 ---
 
 # Recently
+* I am thrilled to announce that our work on [active set ordering](https://nips.cc/virtual/2024/poster/95884) have been accepted for poster presentation at NeurIPS 2024.
 * I am thrilled to share the exciting news that our [meta Bayesian optimization](https://openreview.net/forum?id=ElykcDu5YK) and [constrained Bayesian optimization](https://openreview.net/forum?id=D4NJFfrqoq) have been accepted for poster presentation at ICLR 2024.
 * [Oct 17, 2023 @Phoenix, Arizona] I presented *Optimizing Value-at-risk And Conditional Value-at-risk Of Black-box Functions* at Bayesian Optimization session at **2023 INFORMS Annual Meeting**.
 

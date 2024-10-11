@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Quoc Phong Nguyen</title>
-    <link>https://qphong.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Quoc Phong Nguyen</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 21 Oct 2023 16:09:43 -0400</lastBuildDate>
-    <atom:link href="https://qphong.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Education</title>
-      <link>https://qphong.github.io/education/</link>
+      <link>http://localhost:1313/education/</link>
       <pubDate>Sat, 21 Oct 2023 16:09:43 -0400</pubDate>
-      <guid>https://qphong.github.io/education/</guid>
-      <description>Doctor of Philosophy, Computer Science (2013 - 2018) National University of Singapore, Singapore&#xA;SMA3 (Singapore-MIT Alliance) Fellowship. Supervised by Associate Professor Bryan Kian Hsiang Low and Professor Patrick Jaillet. Thesis: An Alternative Information-Theoretic Criterion for Active Learning. Bachelor of Computer Engineering (Minor in Statistics) (2009 - 2013) National University of Singapore, Singapore&#xA;Lee Kuan Yew Gold Medal for the best graduate throughout the course of study. </description>
+      <guid>http://localhost:1313/education/</guid>
+      <description>&lt;h3 id=&#34;doctor-of-philosophy-computer-science-2013---2018&#34;&gt;Doctor of Philosophy, Computer Science (2013 - 2018)&lt;/h3&gt;&#xA;&lt;p&gt;National University of Singapore, Singapore&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;SMA3 (Singapore-MIT Alliance) Fellowship.&lt;/li&gt;&#xA;&lt;li&gt;Supervised by &lt;a href=&#34;https://www.comp.nus.edu.sg/~lowkh/research.html&#34;&gt;Associate Professor Bryan Kian Hsiang Low&lt;/a&gt; and &lt;a href=&#34;https://web.mit.edu/jaillet/www/&#34;&gt;Professor Patrick Jaillet&lt;/a&gt;.&lt;/li&gt;&#xA;&lt;li&gt;Thesis: &lt;a href=&#34;https://scholarbank.nus.edu.sg/handle/10635/150065&#34;&gt;&lt;em&gt;An Alternative Information-Theoretic Criterion for Active Learning&lt;/em&gt;&lt;/a&gt;.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;bachelor-of-computer-engineering-minor-in-statistics-2009---2013&#34;&gt;Bachelor of Computer Engineering (Minor in Statistics) (2009 - 2013)&lt;/h3&gt;&#xA;&lt;p&gt;National University of Singapore, Singapore&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Lee Kuan Yew Gold Medal for the best graduate throughout the course of study.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Experience</title>
-      <link>https://qphong.github.io/experience/</link>
+      <link>http://localhost:1313/experience/</link>
       <pubDate>Sat, 21 Oct 2023 16:09:43 -0400</pubDate>
-      <guid>https://qphong.github.io/experience/</guid>
-      <description>Working Experience Research Fellow [Mar. 2024 - Present] Applied Artificial Intelligence Institute (A2I2), Deakin University&#xA;Postdoctoral Associate [Apr. 2023 - Feb. 2024] Laboratory for Information &amp;amp; Decision Systems, Massachusetts Institute of Technology&#xA;Developing methods to facilitate the collaboration and to ensure fairness between multiple parties in solving machine learning problems, especially optimizing black box functions. Senior Postdoctoral Fellow [Jul. 2021 - Apr. 2023] Institute of Data Science (IDS), National University of Singapore (NUS)</description>
+      <guid>http://localhost:1313/experience/</guid>
+      <description>&lt;h3 id=&#34;working-experience&#34;&gt;Working Experience&lt;/h3&gt;&#xA;&lt;h4 id=&#34;research-fellow-mar-2024---present&#34;&gt;Research Fellow [Mar. 2024 - Present]&lt;/h4&gt;&#xA;&lt;p&gt;&lt;em&gt;Applied Artificial Intelligence Institute (A2I2), Deakin University&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h4 id=&#34;postdoctoral-associate-apr-2023---feb-2024&#34;&gt;Postdoctoral Associate [Apr. 2023 - Feb. 2024]&lt;/h4&gt;&#xA;&lt;p&gt;&lt;em&gt;Laboratory for Information &amp;amp; Decision Systems, Massachusetts Institute of Technology&lt;/em&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Developing methods to facilitate the collaboration and to ensure fairness between multiple parties in solving machine learning problems, especially optimizing black box functions.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;senior-postdoctoral-fellow-jul-2021---apr-2023&#34;&gt;Senior Postdoctoral Fellow [Jul. 2021 - Apr. 2023]&lt;/h4&gt;&#xA;&lt;p&gt;&lt;em&gt;Institute of Data Science (IDS), National University of Singapore (NUS)&lt;/em&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
